@@ -1,0 +1,17 @@
+[
+  {
+    "name": "John Doe",
+    "amount": 100,
+    "location": "New York"
+  },
+  {
+    "name": "Jane Smith",
+    "amount": 200,
+    "location": "Los Angeles"
+  },
+  {
+    "name": "Alice Johnson",
+    "amount": 150,
+    "location": "Chicago"
+  }
+]
